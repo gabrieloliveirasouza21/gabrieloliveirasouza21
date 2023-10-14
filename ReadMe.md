@@ -14,10 +14,10 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hnfgwlcdv2winwycsppegc5bhe)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
+### 😂 Meme to Make you Laugh :
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
