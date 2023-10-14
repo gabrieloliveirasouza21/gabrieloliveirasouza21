@@ -1,3 +1,6 @@
+![banner](https://github.com/gabrieloliveirasouza21/gabrieloliveirasouza21/assets/91228320/ec8b9bf2-28de-4afa-9edf-1db94b867947)
+
+
 # 💫 About Me:
 🔭 I’m currently working on a lot of things haha.<br>👯 I’m looking to collaborate on C# (.NET Core 6.0) and Java projects<br>🤝 I’m looking for help with complex concepts.<br>🌱 I’m currently learninng about back-end development<br>💬 Ask me about how can I improve my code<br>⚡ Fun fact : Hardly ever I'll know what I'm doing...
 
