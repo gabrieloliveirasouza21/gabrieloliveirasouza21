@@ -9,6 +9,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gabrieloliveirasouza21&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieloliveirasouza21&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
