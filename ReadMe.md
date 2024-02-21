@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on a lot of things haha.<br>👯 I’m looking to collaborate on C# (.NET Core 6.0) and Java projects<br>🤝 I’m looking for help with complex concepts.<br>🌱 I’m currently learninng about back-end development<br>💬 Ask me about how can I improve my code<br>⚡ Fun fact : Hardly ever I'll know what I'm doing...
+🔭 I’m currently working on a lot of things haha.<br>👯 I’m looking to collaborate on C# (.NET Core 8.0) and Java projects<br>🤝 I’m looking for help with complex concepts.<br>🌱 I’m currently learninng about back-end development<br>💬 Ask me about how can I improve my code<br>⚡ Fun fact : Hardly ever I'll know what I'm doing...
 
 ![coding](https://github.com/gabrieloliveirasouza21/gabrieloliveirasouza21/assets/91228320/f51cc200-b6dd-4e36-a14e-a7582f849efc)
 
@@ -17,9 +17,6 @@
 
 ### ✍️ Quote of the Day :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Meme to Make you Laugh :
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gabrieloliveirasouza21&icon=0&color=11)](https://visitcount.itsvg.in)
