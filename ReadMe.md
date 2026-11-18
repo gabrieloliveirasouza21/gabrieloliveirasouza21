@@ -1,5 +1,3 @@
-![banner](https://github.com/gabrieloliveirasouza21/gabrieloliveirasouza21/assets/91228320/ec8b9bf2-28de-4afa-9edf-1db94b867947)
-
 ![coding](https://github.com/gabrieloliveirasouza21/gabrieloliveirasouza21/assets/91228320/f51cc200-b6dd-4e36-a14e-a7582f849efc)
 
 # 💻 Tech Stack:
